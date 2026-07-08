@@ -1,382 +1,384 @@
-# Certification Portfolio
+# Coursera Certification Portfolio
+
+This portfolio contains a collection of certifications completed on Coursera.
 
 ## Google IT Support Professional Certificate
 
 - **Issuer:** Google
-- **Skills Learned:** Troubleshooting, Customer Service, Networking, Operating Systems, System Administration, Security
+- **Skills learned:** Troubleshooting, Customer Service, Networking, Operating Systems, System Administration, Security
 - **Description:** Providing end-to-end IT support, managing hardware and software, configuring networks, and implementing security protocols.
-- **Local Certificate:** [Certificate-1.pdf](Certificate-1.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/specialization/R93791QDBEG7)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/R93791QDBEG7)
+- **Local Certificate:** [View PDF](./Certificate-1.pdf)
 
 ---
 
 ## Splunk Search Expert Specialization
 
 - **Issuer:** Splunk Inc.
-- **Skills Learned:** Splunk, Data Analysis, Search Processing Language (SPL), Dashboarding, Troubleshooting
+- **Skills learned:** Splunk, Data Analysis, Search Processing Language (SPL), Dashboarding, Troubleshooting
 - **Description:** Writing complex SPL queries, creating visualizations, and using Splunk for operational intelligence and security monitoring.
-- **Local Certificate:** [Certificate-2.pdf](Certificate-2.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/specialization/SXFYY4LUL1W2)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/SXFYY4LUL1W2)
+- **Local Certificate:** [View PDF](./Certificate-2.pdf)
 
 ---
 
 ## Cybersecurity Risk Management Frameworks Specialization
 
 - **Issuer:** Kennesaw State University
-- **Skills Learned:** NIST RMF, Risk Assessment, Compliance, Information Security, Risk Mitigation
+- **Skills learned:** NIST RMF, Risk Assessment, Compliance, Information Security, Risk Mitigation
 - **Description:** Implementing risk management frameworks, conducting security assessments, and ensuring organizational compliance with security standards.
-- **Local Certificate:** [Certificate-3.pdf](Certificate-3.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/specialization/ZN2WHFT9EGUA)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/specialization/ZN2WHFT9EGUA)
+- **Local Certificate:** [View PDF](./Certificate-3.pdf)
 
 ---
 
 ## Network Traffic Analysis with Wireshark
 
 - **Issuer:** SkillUp
-- **Skills Learned:** Wireshark, Packet Analysis, Network Troubleshooting, Network Security
+- **Skills learned:** Wireshark, Packet Analysis, Network Troubleshooting, Network Security
 - **Description:** Analyzing network traffic at the packet level to diagnose performance issues and identify security threats.
-- **Local Certificate:** [Certificate-4.pdf](Certificate-4.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/2BRV0LMZTUS0)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/2BRV0LMZTUS0)
+- **Local Certificate:** [View PDF](./Certificate-4.pdf)
 
 ---
 
 ## Accelerate Your Job Search with AI
 
 - **Issuer:** Google
-- **Skills Learned:** Generative AI, Resume Optimization, Interview Preparation
+- **Skills learned:** Generative AI, Resume Optimization, Interview Preparation
 - **Description:** Leveraging AI tools to enhance career prospects and streamline the job application process.
-- **Local Certificate:** [Certificate-5.pdf](Certificate-5.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/3WSNHL5DWHU7)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/3WSNHL5DWHU7)
+- **Local Certificate:** [View PDF](./Certificate-5.pdf)
 
 ---
 
 ## CISSP Domain 1: Security and Risk Management
 
 - **Issuer:** Infosec
-- **Skills Learned:** Security Governance, Risk Management, Compliance, Professional Ethics
+- **Skills learned:** Security Governance, Risk Management, Compliance, Professional Ethics
 - **Description:** Understanding the core principles of security management and risk assessment aligned with CISSP standards.
-- **Local Certificate:** [Certificate-6.pdf](Certificate-6.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/GPGUTQVCOD24)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/GPGUTQVCOD24)
+- **Local Certificate:** [View PDF](./Certificate-6.pdf)
 
 ---
 
 ## Introduction to Ethical Hacking Principles
 
 - **Issuer:** SkillUp
-- **Skills Learned:** Ethical Hacking, Vulnerability Assessment, Penetration Testing Basics
+- **Skills learned:** Ethical Hacking, Vulnerability Assessment, Penetration Testing Basics
 - **Description:** Identifying system vulnerabilities and understanding the methodology of ethical hacking.
-- **Local Certificate:** [Certificate-7.pdf](Certificate-7.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/8WFZS9MG6LEI)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/8WFZS9MG6LEI)
+- **Local Certificate:** [View PDF](./Certificate-7.pdf)
 
 ---
 
 ## Introduction to Cybersecurity Essentials
 
 - **Issuer:** IBM
-- **Skills Learned:** Cybersecurity Fundamentals, Threat Landscape, Security Tools
+- **Skills learned:** Cybersecurity Fundamentals, Threat Landscape, Security Tools
 - **Description:** Grasping the basic concepts of cybersecurity and the common tools used to protect digital assets.
-- **Local Certificate:** [Certificate-8.pdf](Certificate-8.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/TZVM5EPKGXK8)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/TZVM5EPKGXK8)
+- **Local Certificate:** [View PDF](./Certificate-8.pdf)
 
 ---
 
 ## Penetration Testing, Threat Hunting, and Cryptography
 
 - **Issuer:** IBM
-- **Skills Learned:** Penetration Testing, Threat Hunting, Cryptography, Security Operations
+- **Skills learned:** Penetration Testing, Threat Hunting, Cryptography, Security Operations
 - **Description:** Performing proactive security testing, searching for undetected threats, and applying cryptographic principles.
-- **Local Certificate:** [Certificate-9.pdf](Certificate-9.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/V7T3XKYF67GY)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/V7T3XKYF67GY)
+- **Local Certificate:** [View PDF](./Certificate-9.pdf)
 
 ---
 
 ## Splunk Search Expert 103
 
 - **Issuer:** Splunk Inc.
-- **Skills Learned:** Data Analysis
+- **Skills learned:** Data Analysis
 - **Description:** Analyzing logs and data
-- **Local Certificate:** [Certificate-10.pdf](Certificate-10.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/H5PH6UTMWDG7)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/H5PH6UTMWDG7)
+- **Local Certificate:** [View PDF](./Certificate-10.pdf)
 
 ---
 
 ## Splunk Search Expert 102
 
 - **Issuer:** Splunk Inc.
-- **Skills Learned:** Data Analysis
+- **Skills learned:** Data Analysis
 - **Description:** Analyzing logs and data
-- **Local Certificate:** [Certificate-11.pdf](Certificate-11.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/AU7U3ED8273R)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/AU7U3ED8273R)
+- **Local Certificate:** [View PDF](./Certificate-11.pdf)
 
 ---
 
 ## Splunk Search Expert 101
 
 - **Issuer:** Splunk Inc.
-- **Skills Learned:** Data Analysis
+- **Skills learned:** Data Analysis
 - **Description:** Analyzing logs and data
-- **Local Certificate:** [Certificate-12.pdf](Certificate-12.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/D6SQUL6KOHCU)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/D6SQUL6KOHCU)
+- **Local Certificate:** [View PDF](./Certificate-12.pdf)
 
 ---
 
 ## Computer Networks and Network Security
 
 - **Issuer:** IBM
-- **Skills Learned:** Cybersecurity, Networking
+- **Skills learned:** Cybersecurity, Networking
 - **Description:** Enhancing security posture. Managing network infrastructure
-- **Local Certificate:** [Certificate-13.pdf](Certificate-13.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/N4HHE6ID2BLR)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/N4HHE6ID2BLR)
+- **Local Certificate:** [View PDF](./Certificate-13.pdf)
 
 ---
 
 ## Operating Systems and You: Becoming a Power User
 
 - **Issuer:** Google
-- **Skills Learned:** General Professional Skills
+- **Skills learned:** General Professional Skills
 - **Description:** Broadening professional knowledge base.
-- **Local Certificate:** [Certificate-14.pdf](Certificate-14.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/L7ATAK2MDLEY)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/L7ATAK2MDLEY)
+- **Local Certificate:** [View PDF](./Certificate-14.pdf)
 
 ---
 
 ## Cybersecurity in Healthcare (Hospitals & Care Centres)
 
 - **Issuer:** Erasmus University Rotterdam
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-15.pdf](Certificate-15.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/VO9VE2HOOB2D)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/VO9VE2HOOB2D)
+- **Local Certificate:** [View PDF](./Certificate-15.pdf)
 
 ---
 
 ## Implementing a Risk Management Framework
 
 - **Issuer:** Kennesaw State University
-- **Skills Learned:** Risk Management
+- **Skills learned:** Risk Management
 - **Description:** Assessing and mitigating risks
-- **Local Certificate:** [Certificate-16.pdf](Certificate-16.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/DA58VLTAQP2O)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/DA58VLTAQP2O)
+- **Local Certificate:** [View PDF](./Certificate-16.pdf)
 
 ---
 
 ## A General Approach to Risk Management
 
 - **Issuer:** Kennesaw State University
-- **Skills Learned:** Risk Management
+- **Skills learned:** Risk Management
 - **Description:** Assessing and mitigating risks
-- **Local Certificate:** [Certificate-17.pdf](Certificate-17.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/PZ9CSVAV8QQT)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/PZ9CSVAV8QQT)
+- **Local Certificate:** [View PDF](./Certificate-17.pdf)
 
 ---
 
 ## Dominant Risk Management Standards and Frameworks
 
 - **Issuer:** Kennesaw State University
-- **Skills Learned:** Risk Management
+- **Skills learned:** Risk Management
 - **Description:** Assessing and mitigating risks
-- **Local Certificate:** [Certificate-18.pdf](Certificate-18.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/S1G8PROIP2JH)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/S1G8PROIP2JH)
+- **Local Certificate:** [View PDF](./Certificate-18.pdf)
 
 ---
 
 ## Cybersecurity Foundations for Risk Management
 
 - **Issuer:** Kennesaw State University
-- **Skills Learned:** Cybersecurity, Risk Management
+- **Skills learned:** Cybersecurity, Risk Management
 - **Description:** Enhancing security posture. Assessing and mitigating risks
-- **Local Certificate:** [Certificate-19.pdf](Certificate-19.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/HSKUWU4TKUIQ)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/HSKUWU4TKUIQ)
+- **Local Certificate:** [View PDF](./Certificate-19.pdf)
 
 ---
 
 ## Solving Problems with Creative and Critical Thinking
 
 - **Issuer:** IBM
-- **Skills Learned:** General Professional Skills
+- **Skills learned:** General Professional Skills
 - **Description:** Broadening professional knowledge base.
-- **Local Certificate:** [Certificate-20.pdf](Certificate-20.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/HXMEH2A8LFXP)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/HXMEH2A8LFXP)
+- **Local Certificate:** [View PDF](./Certificate-20.pdf)
 
 ---
 
 ## Developing Applications in Python on AWS
 
 - **Issuer:** Amazon Web Services
-- **Skills Learned:** Programming
+- **Skills learned:** Programming
 - **Description:** Developing software solutions
-- **Local Certificate:** [Certificate-21.pdf](Certificate-21.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/APJ2AT832A8Z)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/APJ2AT832A8Z)
+- **Local Certificate:** [View PDF](./Certificate-21.pdf)
 
 ---
 
 ## Cybersecurity Awareness and Innovation
 
 - **Issuer:** 28DIGITAL
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-22.pdf](Certificate-22.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/CPI9WPCFWM42)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/CPI9WPCFWM42)
+- **Local Certificate:** [View PDF](./Certificate-22.pdf)
 
 ---
 
 ## The Bits and Bytes of Computer Networking
 
 - **Issuer:** Google
-- **Skills Learned:** Networking
+- **Skills learned:** Networking
 - **Description:** Managing network infrastructure
-- **Local Certificate:** [Certificate-23.pdf](Certificate-23.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/3HU7PFT1A2WG)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/3HU7PFT1A2WG)
+- **Local Certificate:** [View PDF](./Certificate-23.pdf)
 
 ---
 
 ## System Administration and IT Infrastructure Services
 
 - **Issuer:** Google
-- **Skills Learned:** General Professional Skills
+- **Skills learned:** General Professional Skills
 - **Description:** Broadening professional knowledge base.
-- **Local Certificate:** [Certificate-24.pdf](Certificate-24.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/JDYVZ3OUXUPB)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/JDYVZ3OUXUPB)
+- **Local Certificate:** [View PDF](./Certificate-24.pdf)
 
 ---
 
 ## IT Security: Defense against the digital dark arts
 
 - **Issuer:** Google
-- **Skills Learned:** Cybersecurity, AI
+- **Skills learned:** Cybersecurity, AI
 - **Description:** Enhancing security posture. Leveraging AI technologies
-- **Local Certificate:** [Certificate-25.pdf](Certificate-25.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/SOZ9KWL44G7P)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/SOZ9KWL44G7P)
+- **Local Certificate:** [View PDF](./Certificate-25.pdf)
 
 ---
 
 ## Introduction to Information Technology and AWS Cloud
 
 - **Issuer:** Amazon Web Services
-- **Skills Learned:** General Professional Skills
+- **Skills learned:** General Professional Skills
 - **Description:** Broadening professional knowledge base.
-- **Local Certificate:** [Certificate-26.pdf](Certificate-26.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/U5HCCHCGPUMI)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/U5HCCHCGPUMI)
+- **Local Certificate:** [View PDF](./Certificate-26.pdf)
 
 ---
 
 ## Introducing Security: Aligning Asset and Risk Management
 
 - **Issuer:** ISC2
-- **Skills Learned:** Cybersecurity, Risk Management
+- **Skills learned:** Cybersecurity, Risk Management
 - **Description:** Enhancing security posture. Assessing and mitigating risks
-- **Local Certificate:** [Certificate-27.pdf](Certificate-27.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/QURXWDDEMJK7)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/QURXWDDEMJK7)
+- **Local Certificate:** [View PDF](./Certificate-27.pdf)
 
 ---
 
 ## Master Full-Stack Web Development with Laravel & PHP
 
 - **Issuer:** Board Infinity
-- **Skills Learned:** PHP, Laravel, Full-Stack Development, MySQL, Web Architecture
+- **Skills learned:** PHP, Laravel, Full-Stack Development, MySQL, Web Architecture
 - **Description:** Building robust web applications using the Laravel framework and managing back-end databases.
-- **Local Certificate:** [Certificate-28.pdf](Certificate-28.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/LPMTSQQHWGEH)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/LPMTSQQHWGEH)
+- **Local Certificate:** [View PDF](./Certificate-28.pdf)
 
 ---
 
 ## Gen AI in Cybersecurity
 
 - **Issuer:** Edureka
-- **Skills Learned:** Generative AI, AI-driven Security, Automation
+- **Skills learned:** Generative AI, AI-driven Security, Automation
 - **Description:** Applying generative AI technologies to enhance threat detection and automate security workflows.
-- **Local Certificate:** [Certificate-29.pdf](Certificate-29.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/GX2UNGZPNSBW)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/GX2UNGZPNSBW)
+- **Local Certificate:** [View PDF](./Certificate-29.pdf)
 
 ---
 
 ## HPE Aruba Networking Security Basics (Arabic)
 
 - **Issuer:** HPE Aruba Networking
-- **Skills Learned:** Cybersecurity, Networking
+- **Skills learned:** Cybersecurity, Networking
 - **Description:** Enhancing security posture. Managing network infrastructure
-- **Local Certificate:** [Certificate-30.pdf](Certificate-30.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/FUNFQ8S78869)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/FUNFQ8S78869)
+- **Local Certificate:** [View PDF](./Certificate-30.pdf)
 
 ---
 
 ## Introduction to Back-End Development
 
 - **Issuer:** Meta
-- **Skills Learned:** Back-End Development, APIs, Server-side Logic
+- **Skills learned:** Back-End Development, APIs, Server-side Logic
 - **Description:** Developing the server-side components of web applications and integrating with front-end services.
-- **Local Certificate:** [Certificate-31.pdf](Certificate-31.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/VBCYZ5HRZMYN)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/VBCYZ5HRZMYN)
+- **Local Certificate:** [View PDF](./Certificate-31.pdf)
 
 ---
 
 ## Crash Course on Python
 
 - **Issuer:** Google
-- **Skills Learned:** Python Programming, Automation, Data Structures
+- **Skills learned:** Python Programming, Automation, Data Structures
 - **Description:** Writing Python scripts to automate tasks and solve computational problems.
-- **Local Certificate:** [Certificate-32.pdf](Certificate-32.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/EV79DHYLQ474)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/EV79DHYLQ474)
+- **Local Certificate:** [View PDF](./Certificate-32.pdf)
 
 ---
 
 ## Foundations of Cybersecurity
 
 - **Issuer:** Google
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-33.pdf](Certificate-33.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/S3LFARVVQHP2)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/S3LFARVVQHP2)
+- **Local Certificate:** [View PDF](./Certificate-33.pdf)
 
 ---
 
 ## Technical Support Fundamentals
 
 - **Issuer:** Google
-- **Skills Learned:** General Professional Skills
+- **Skills learned:** General Professional Skills
 - **Description:** Broadening professional knowledge base.
-- **Local Certificate:** [Certificate-34.pdf](Certificate-34.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/CGUQUM9RCL22)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/CGUQUM9RCL22)
+- **Local Certificate:** [View PDF](./Certificate-34.pdf)
 
 ---
 
 ## Introduction to Cybersecurity Careers
 
 - **Issuer:** IBM
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-35.pdf](Certificate-35.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/82Z6SXU7N6ZH)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/82Z6SXU7N6ZH)
+- **Local Certificate:** [View PDF](./Certificate-35.pdf)
 
 ---
 
 ## Cybersecurity Compliance Framework, Standards & Regulations
 
 - **Issuer:** IBM
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-36.pdf](Certificate-36.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/XFSG8BFRRJ7E)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/XFSG8BFRRJ7E)
+- **Local Certificate:** [View PDF](./Certificate-36.pdf)
 
 ---
 
 ## Operating Systems: Overview, Administration, and Security
 
 - **Issuer:** IBM
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-37.pdf](Certificate-37.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/YX9KWZMKCEYE)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/YX9KWZMKCEYE)
+- **Local Certificate:** [View PDF](./Certificate-37.pdf)
 
 ---
 
 ## Introduction to Cybersecurity Tools & Cyberattacks
 
 - **Issuer:** IBM
-- **Skills Learned:** Cybersecurity
+- **Skills learned:** Cybersecurity
 - **Description:** Enhancing security posture
-- **Local Certificate:** [Certificate-38.pdf](Certificate-38.pdf)
-- **Official Verification:** [Link](https://www.coursera.org/account/accomplishments/verify/M5P2MU7DH4GQ)
+- **Verification Link:** [Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/M5P2MU7DH4GQ)
+- **Local Certificate:** [View PDF](./Certificate-38.pdf)
 
 ---
 
